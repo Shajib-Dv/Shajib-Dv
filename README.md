@@ -1,12 +1,10 @@
-### Hi there 👋, My name is Shajib Hossain
-#### Front-End Developer.
-![Front-End Developer.](https://i.ibb.co/rmP0C0X/Github-profile.png)
+[<img src='https://i.ibb.co/Jrsx4FY/Github-profile-1.png'>](https://www.facebook.com/shajib.hossain.dev)
 
 As a quick learner, I thrive on hard work and efficiency, constantly embracing new technologies and
 experiences. I approach each opportunity with a determination to prove myself through my work and
 take responsibility for delivering exceptional results.
 
-Skills: React.js / Express.js / Node.js / JavaScript / HTML / CSS / MongoDB / Firebase / Git
+> Skills: React.js / Express.js / Node.js / JavaScript / HTML / CSS / MongoDB / Firebase / Git
 
 - 🌱 I’m currently learning TypeScript and Next.js 
 - 👯 I’m looking to collaborate on open-source projects. 
