@@ -5,11 +5,11 @@ experiences. I approach each opportunity with a determination to prove myself th
 take responsibility for delivering exceptional results.
 
 
-- 🌱 I’m currently working to develop my skills.
+- 🌱 I’m currently doing an internship in Zeppstr.
 - 👯 I’m looking to collaborate on open-source projects. 
-- 🤔 I’m looking for help with teamwork. 
+- 🤔 I’m looking to do teamwork. 
 - 💬 Ask me about web development. 
-- ⚡ Fun fact: I have no interest in `Cricket` and `Football.`
+- ⚡ Fun fact: I have no interest in ```Cricket``` and ```Football```
 
 ## Skills and Tools
 <p align="left">
